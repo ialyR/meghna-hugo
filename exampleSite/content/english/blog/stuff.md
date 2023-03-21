@@ -2,6 +2,7 @@
 author = "JohnJohn"
 date = 2023-03-20T23:00:00Z
 description = "some description"
+draft = true
 image = ""
 image_webp = "/images/backgrounds/bg-white-wall.jpg"
 title = "Stuff"
