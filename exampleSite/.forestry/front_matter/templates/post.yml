@@ -23,4 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/english/blog/stuff-again.md
 - exampleSite/content/english/blog/stuff.md
